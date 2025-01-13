@@ -68,7 +68,7 @@ for user in users:
                 "content": (
                     f"Write an imaginary backstory, or lore, for a person that has become an evil debtor. You can use some of the information of that person: {user_info}. Also"
                     f" make use of additional information contained in a prompted I used to generate a funny image of this person: {prompt}. Be very specific with details, but"
-                    " overall do not be too verbose, write a maximum of 2 paragraphs."
+                    " overall do not be too verbose, write a maximum of 2 very short paragraphs."
                 ),
             },
         ],
