@@ -1,85 +1,113 @@
 users:
 - Name: Invitado
-  Year of birth: 
+  Year of birth: 2024
   Place of birth: Madrid
+  Gender: Non-binary
 - Name: Anna
-  Year of birth: 1990
-  Place of birth: Italy
+  Year of birth: 1998
+  Place of birth: Rome
+  Gender: Female
 - Name: Carlos Cortés
   Year of birth: 1993
   Place of birth: Málaga
+  Gender: Male
 - Name: Carlos Cuevas
-  Year of birth: 1990
+  Year of birth: 1981
   Place of birth: Cuenca
+  Gender: Male
 - Name: Carlos Roberto
-  Year of birth: 1990
-  Place of birth: Madrid
+  Year of birth: 1979
+  Place of birth: Toledo
+  Gender: Male
 - Name: Celia
-  Year of birth: 1990
+  Year of birth: 1999
   Place of birth: Madrid
+  Gender: Female
 - Name: César
-  Year of birth: 1990
+  Year of birth: 1983
   Place of birth: Madrid
+  Gender: Male
 - Name: Dani Berjón
-  Year of birth: 1990
-  Place of birth: Madrid
+  Year of birth: 1980
+  Place of birth: Valladolid
+  Gender: Male
 - Name: Dani Fuertes
   Year of birth: 1997
   Place of birth: Madrid
+  Gender: Male
 - Name: David
-  Year of birth: 1990
+  Year of birth: 2000
   Place of birth: Madrid
+  Gender: Male
 - Name: Enmin
   Year of birth: 1997
-  Place of birth: Madrid
+  Place of birth: China
+  Gender: Female
 - Name: Enol
-  Year of birth: 1990
-  Place of birth: Madrid
-- Name: Fernando
-  Year of birth: 1990
-  Place of birth: Madrid
-- Name: Francisco
-  Year of birth: 1990
-  Place of birth: Madrid
-- Name: Isa
   Year of birth: 1997
+  Place of birth: USA
+  Gender: Male
+- Name: Fernando
+  Year of birth: 1962
+  Place of birth: Basque Country
+  Gender: Male
+- Name: Francisco
+  Year of birth: 1967
   Place of birth: Madrid
+  Gender: Male
+- Name: Isa
+  Year of birth: 1995
+  Place of birth: Almería
+  Gender: Female
 - Name: Jesús
-  Year of birth: 1990
-  Place of birth: Madrid
+  Year of birth: 1984
+  Place of birth: Alicante
+  Gender: Male
 - Name: Julián
-  Year of birth: 1990
+  Year of birth: 1972
   Place of birth: Madrid
+  Gender: Male
 - Name: Leyre
   Year of birth: 1997
-  Place of birth: Madrid
+  Place of birth: Navarra
+  Gender: Female
 - Name: Marcos
   Year of birth: 1993
   Place of birth: Madrid
+  Gender: Male
 - Name: Marta Goyena
   Year of birth: 1990
-  Place of birth: Madrid
+  Place of birth: Navarra
+  Gender: Female
 - Name: Marta Orduna
   Year of birth: 1990
-  Place of birth: Madrid
+  Place of birth: Huesca
+  Gender: Female
 - Name: Martina
   Year of birth: 1990
   Place of birth: Italy
+  Gender: Female
 - Name: Matteo
   Year of birth: 1990
   Place of birth: Italy
+  Gender: Male
 - Name: Miki
-  Year of birth: 1990
+  Year of birth: 1999
   Place of birth: Madrid
+  Gender: Male
 - Name: Narciso
-  Year of birth: 1990
+  Year of birth: 1954
   Place of birth: Madrid
+  Gender: Male
 - Name: Pablo
-  Year of birth: 1990
+  Year of birth: 1980
   Place of birth: Madrid
+  Gender: Male
 - Name: Usón
-  Year of birth: 1990
-  Place of birth: Madrid
+  Year of birth: 1998
+  Place of birth: Cuenca
+  Gender: Male
 - Name: Victoria
-  Year of birth: 1990
-  Place of birth: Madrid
+  Year of birth: 2001
+  Place of birth: Córdoba
+  Gender: Female

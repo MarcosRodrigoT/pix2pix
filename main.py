@@ -2,7 +2,6 @@ import os
 import yaml
 import json
 import torch
-from datetime import datetime
 from ollama import chat
 from diffusers import StableDiffusion3Pipeline
 
@@ -50,8 +49,8 @@ for user in users:
             {
                 "role": "user",
                 "content": (
-                    "Write a random prompt for a stable diffusion model to generate an image containing a demeaning representation of a person. The topic can be anything, be very"
-                    " creative. Generate only the prompt, with no additional text or explanation, as I plan to simply copy and paste the response."
+                    f"Write a random prompt for a stable diffusion model to generate an image containing a demeaning representation of a {user['Gender']} person. The topic"
+                    " can be anything, be very creative. Generate only the prompt, with no additional text or explanation, as I plan to simply copy and paste the response."
                 ),
             },
         ],
