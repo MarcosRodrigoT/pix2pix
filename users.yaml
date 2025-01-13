@@ -1,8 +1,4 @@
 users:
-- Name: Invitado
-  Year of birth: 2024
-  Place of birth: Madrid
-  Gender: Non-binary
 - Name: Anna
   Year of birth: 1998
   Place of birth: Rome
@@ -45,7 +41,7 @@ users:
   Gender: Female
 - Name: Enol
   Year of birth: 1997
-  Place of birth: USA
+  Place of birth: Zaragoza
   Gender: Male
 - Name: Fernando
   Year of birth: 1962
@@ -55,6 +51,10 @@ users:
   Year of birth: 1967
   Place of birth: Madrid
   Gender: Male
+- Name: Invitado
+  Year of birth: 2024
+  Place of birth: Madrid
+  Gender: Non-binary
 - Name: Isa
   Year of birth: 1995
   Place of birth: Almería

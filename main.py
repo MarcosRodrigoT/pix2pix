@@ -55,9 +55,10 @@ for user in users:
             },
         ],
     )
-
     prompt = prompt["message"]["content"]
     print(f"\n{Color.RED}{prompt}{Color.RESET}")
+    with open(f"{user_dir}/prompt.txt", "w") as f:
+        f.write(prompt)
 
     backstory = chat(
         model="llama3.3",
@@ -76,6 +77,20 @@ for user in users:
     print(backstory)
     with open(f"{user_dir}/backstory.txt", "w") as f:
         f.write(backstory)
+
+    nickname = chat(
+        model="llama3.3",
+        messages=[
+            {
+                "role": "user",
+                "content": f"Give a short nickname to this person based on his/her backstory: {backstory}. Simply write the nickname, no additional text or explanation.",
+            },
+        ],
+    )
+    nickname = nickname["message"]["content"]
+    print(f"\n{Color.CYAN}Nickname: {nickname}{Color.RESET}")
+    with open(f"{user_dir}/nickname.txt", "w") as f:
+        f.write(nickname)
 
     # Stop ollama server
     os.system("ollama stop llama3.3")
