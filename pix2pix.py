@@ -27,19 +27,12 @@ pipe = StableDiffusionInstructPix2PixPipeline.from_pretrained(model_id, torch_dt
 pipe.to("cuda")
 pipe.scheduler = EulerAncestralDiscreteScheduler.from_config(pipe.scheduler.config)
 
-url = "https://raw.githubusercontent.com/timothybrooks/instruct-pix2pix/main/imgs/example.jpg"
+# url = "https://raw.githubusercontent.com/timothybrooks/instruct-pix2pix/main/imgs/example.jpg"
+# img_file = download_image(url)
 img_file = "user_profiles/mrt.jpg"
 
 prompt = [
     "Transform this baby into an anime character",
-    "Transform this baby into an anime character",
-    "Transform this baby into an anime character",
-    "Transform this baby into an anime character",
-    "Transform this baby into an anime character",
-    "Transform this baby into an anime princess",
-    "Transform this baby into an anime princess",
-    "Transform this baby into an anime princess",
-    "Transform this baby into an anime princess",
     "Transform this baby into an anime princess",
     "Transform this baby into a witch",
     "Transform this baby into a wizard",
