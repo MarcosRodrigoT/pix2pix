@@ -43,6 +43,10 @@ users:
   Year of birth: 1997
   Place of birth: Zaragoza
   Gender: Male
+- Name: Esther
+  Year of birth: 1990
+  Place of birth: Madrid
+  Gender: Female
 - Name: Fernando
   Year of birth: 1962
   Place of birth: Basque Country
@@ -76,11 +80,11 @@ users:
   Place of birth: Madrid
   Gender: Male
 - Name: Marta Goyena
-  Year of birth: 1990
+  Year of birth: 1999
   Place of birth: Navarra
   Gender: Female
 - Name: Marta Orduna
-  Year of birth: 1990
+  Year of birth: 1993
   Place of birth: Huesca
   Gender: Female
 - Name: Martina
