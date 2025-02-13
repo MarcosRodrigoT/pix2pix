@@ -1,4 +1,8 @@
 users:
+- Name: Álvaro
+  Year of birth: 2000
+  Place of birth: Madrid
+  Gender: Male
 - Name: Anna
   Year of birth: 1998
   Place of birth: Rome
