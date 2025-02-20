@@ -7,6 +7,10 @@ users:
   Year of birth: 1998
   Place of birth: Rome
   Gender: Female
+- Name: Antonio
+  Year of birth: 1990
+  Place of birth: Madrid
+  Gender: Male
 - Name: Carlos Cortés
   Year of birth: 1993
   Place of birth: Málaga
