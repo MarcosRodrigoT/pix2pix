@@ -52,12 +52,12 @@ users:
   Place of birth: Zaragoza
   Gender: Male
 - Name: Esther
-  Year of birth: 1990
+  Year of birth: 1984
   Place of birth: Madrid
   Gender: Female
 - Name: Fernando
   Year of birth: 1962
-  Place of birth: Basque Country
+  Place of birth: Venezuela
   Gender: Male
 - Name: Francisco
   Year of birth: 1967
@@ -96,7 +96,7 @@ users:
   Place of birth: Huesca
   Gender: Female
 - Name: Martina
-  Year of birth: 1990
+  Year of birth: 1998
   Place of birth: Italy
   Gender: Female
 - Name: Matteo
@@ -112,12 +112,12 @@ users:
   Place of birth: Madrid
   Gender: Male
 - Name: Pablo
-  Year of birth: 1980
-  Place of birth: Madrid
+  Year of birth: 1981
+  Place of birth: Guadalajara
   Gender: Male
 - Name: Sara
   Year of birth: 1990
-  Place of birth: Italy
+  Place of birth: Naples
   Gender: Female
 - Name: Usón
   Year of birth: 1998
