@@ -115,6 +115,10 @@ users:
   Year of birth: 1980
   Place of birth: Madrid
   Gender: Male
+- Name: Sara
+  Year of birth: 1990
+  Place of birth: Italy
+  Gender: Female
 - Name: Usón
   Year of birth: 1998
   Place of birth: Cuenca
