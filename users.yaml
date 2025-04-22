@@ -63,6 +63,10 @@ users:
   Year of birth: 1967
   Place of birth: Madrid
   Gender: Male
+- Name: Hugo
+  Year of birth: 2000
+  Place of birth: France
+  Gender: Male
 - Name: Invitado
   Year of birth: 2024
   Place of birth: Madrid
